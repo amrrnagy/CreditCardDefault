@@ -1,0 +1,27 @@
+# Data files (NEVER PUSH RAW DATA)
+*.csv
+*.xls
+*.xlsx
+*.dat
+data/*
+!data/.gitkeep
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+*.swp
