@@ -1,10 +1,10 @@
 # Data files (NEVER PUSH RAW DATA)
-#*.csv
-#*.xls
-#*.xlsx
-#*.dat
-#data/*
-#!data/.gitkeep
+*.csv
+*.xls
+*.xlsx
+*.dat
+data/*
+!data/.gitkeep
 
 # Environments
 .venv/
